@@ -1,7 +1,13 @@
 criaCartao(
-    'Ciências?',
-    'Qual a função do coração?',
-    'Bombear o sangue'
+    'Ciências',
+    'Para que serv o coração?',
+    'Bombear sangue para o corpo'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital do brasil',
+    'A capital do brasil é brasilia'
 )
 
 criaCartao(
@@ -11,12 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Hitória'
-    'Em que ano o brasil foi decoberto?',
-    'Em 22 de abril de 1500',
-)
-criaCartao(
     'Lingua inglesa',
-    'Como se diz quantos anos tenho em inglês?',
-    'I'm 16 years old'
+    'Como se diz eu te amo em inglês?',
+    'I love you'
 ) 
